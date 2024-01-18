@@ -5,9 +5,5 @@
 
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 @import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
-@layer utilities {
-    .bg-gradient-conic {
-      background: conic-gradient(from 90deg at 50% 50%, rgba(242, 242, 242, 1), rgba(173, 173, 173, 1));
-    }
-  }
+
   
